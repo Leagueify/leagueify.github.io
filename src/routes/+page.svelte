@@ -2,6 +2,11 @@
   <h1>Leagueify</h1>
   <p>The open source self-hosted Sporting League Platform.</p>
   <p>Coming Soon</p>
+  <a href="https://github.com/orgs/Leagueify/projects/4/views/5" target="_blank" rel="noreferrer">
+    <p>
+      Follow our Development
+    </p>
+  </a>
 </div>
 
 <style>
